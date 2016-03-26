@@ -1,0 +1,18 @@
+body {
+  background-color: lightgray;
+  font-family: Blabla, sans-serif;
+}
+
+figure img {
+  float: left;
+  margin: 20px;
+  width: 50%;
+}
+
+.primary {
+  font-size: 150%;
+}
+
+.secondary {
+  color: #444444;
+}
